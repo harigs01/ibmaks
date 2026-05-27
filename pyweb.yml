@@ -25,7 +25,7 @@ spec:
     spec:
       containers:
       - name: pyweb
-        image: nginx:1.7.9
+        image: smehta26/pyweb:2.0
         ports:
         - containerPort: 5000
 
